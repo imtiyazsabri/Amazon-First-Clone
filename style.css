@@ -2,6 +2,8 @@
     margin: 0;
     font-family: Arial;
     border: border-box;
+    overscroll-behavior-x: none;
+    overscroll-behavior-y: none;
 }
 
 .navbar{
